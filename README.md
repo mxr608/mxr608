@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mxr608
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Internet Security
+- 🌱 I’m currently learning in school
+- 💞️ I’m looking to collaborate on to make the web safer and more privacy
 - 📫 How to reach me mxr.608@tutanota.com
 
 <!---
