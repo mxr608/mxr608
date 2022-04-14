@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mxr608
-- 👀 I’m interested in Internet Security
+- 👀 I’m interested in Internet Security and Privacy Form everyone
 - 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on to make the web safer and more privacy
 - 📫 How to reach me mxr.608@tutanota.com
