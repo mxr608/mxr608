@@ -1,5 +1,5 @@
 /*
- * Code weiteren by mxr608, mxr608 in Github
+ * Code writen by mxr608, mxr608 on Github
  */
 
 
